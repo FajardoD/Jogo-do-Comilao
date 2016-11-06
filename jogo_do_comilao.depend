@@ -1,0 +1,35 @@
+# depslib dependency file v1.0
+1465494937 source:c:\users\fajardo\desktop\isec\2°ano\p\tp\prog_p3_21240085\jogo_do_comilao\estruturas.c
+	"includes.h"
+
+1465408517 c:\users\fajardo\desktop\isec\2°ano\p\tp\prog_p3_21240085\jogo_do_comilao\estruturas.h
+
+1465437183 c:\users\fajardo\desktop\isec\2°ano\p\tp\prog_p3_21240085\jogo_do_comilao\tabuleiro.h
+
+1465408472 c:\users\fajardo\desktop\isec\2°ano\p\tp\prog_p3_21240085\jogo_do_comilao\ficheiros.h
+
+1465437009 c:\users\fajardo\desktop\isec\2°ano\p\tp\prog_p3_21240085\jogo_do_comilao\jogada.h
+
+1465437555 source:c:\users\fajardo\desktop\isec\2°ano\p\tp\prog_p3_21240085\jogo_do_comilao\ficheiros.c
+	"includes.h"
+
+1465792394 source:c:\users\fajardo\desktop\isec\2°ano\p\tp\prog_p3_21240085\jogo_do_comilao\jogada.c
+	"includes.h"
+
+1465496656 source:c:\users\fajardo\desktop\isec\2°ano\p\tp\prog_p3_21240085\jogo_do_comilao\main.c
+	"includes.h"
+
+1465496591 source:c:\users\fajardo\desktop\isec\2°ano\p\tp\prog_p3_21240085\jogo_do_comilao\tabuleiro.c
+	"includes.h"
+
+1465436641 c:\users\fajardo\desktop\isec\2°ano\p\tp\prog_p3_21240085\jogo_do_comilao\includes.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	<ctype.h>
+	"estruturas.h"
+	"tabuleiro.h"
+	"ficheiros.h"
+	"jogada.h"
+
